@@ -1,1 +1,1 @@
-this is redirectory readme
+redirections shell script
