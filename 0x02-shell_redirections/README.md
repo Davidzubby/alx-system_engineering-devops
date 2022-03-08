@@ -1,1 +1,1 @@
-this is the project we are working on now
+this is redirectory readme
